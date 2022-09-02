@@ -16,7 +16,8 @@ import comp90015.idxsrv.server.ServerTextGUI;
  *
  */
 public class IdxSrv 
-{	
+{
+	//hello java
 	private static Options options = new Options();
 	
 	private static void help() {
